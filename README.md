@@ -1,2 +1,2 @@
 # hello-world
-sample repo
+from hello world to just hello
