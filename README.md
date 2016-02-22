@@ -1,2 +1,2 @@
 # hello-world
-this is an edited version
+from hello world to just hello
